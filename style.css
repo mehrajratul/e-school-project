@@ -50,8 +50,9 @@
     box-shadow: 7px 7px 14px grey
 }
 .third-section{
-    height: 700px;
+    height: 800px;
     padding: 100px;
+    padding-bottom: 0px;
 }
 .sec-heading{
     text-align: center;
@@ -80,4 +81,26 @@
 }
 .d-flex{
     margin-bottom: 20px;
+}
+footer{
+    background-color: #282531;
+    position: relative;
+    height: 750px;
+}
+
+.footer-section ul li{
+    list-style: none;
+    color: white;
+    
+}
+.courses-li{
+    font-size: 18px;
+    font-weight: 600;
+}
+footer li{
+    font-size: 17px;margin: 0;
+}
+.footer-p{
+    color: white;
+    padding-right: 0;
 }
