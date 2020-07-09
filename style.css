@@ -28,11 +28,11 @@
 }
 .top-banner{
     background-color: rgba(194, 219, 221, 0.397);
-    height: 400px;
+    height: 600px;
 }
 .second-section{
-    height: 500px;
-    padding: 100px;
+    height: 900px;
+    padding-top: 300px;
 }
 .card-img-top{
     height: 60%;
@@ -50,7 +50,7 @@
     box-shadow: 7px 7px 14px grey
 }
 .third-section{
-    height: 800px;
+    height: 900px;
     padding: 100px;
     padding-bottom: 0px;
 }
