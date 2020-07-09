@@ -1,0 +1,83 @@
+.head-bg{
+    background-color: rgba(194, 219, 221, 0.397);
+}
+.col{
+    margin: 4%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.col img{
+    width: 450px;
+    margin-top: 0px;
+}
+.slogan{
+    font-weight: 900;
+    font-size: 50px;
+}
+.text-highlight{
+    color: rgb(107, 194, 107);
+}
+.top-btn{
+    background-color: rgb(107, 194, 107);
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    padding: 5px 25px 5px 25px;
+    cursor: pointer;
+}
+.top-banner{
+    background-color: rgba(194, 219, 221, 0.397);
+    height: 400px;
+}
+.second-section{
+    height: 500px;
+    padding: 100px;
+}
+.card-img-top{
+    height: 60%;
+    padding: 40px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+.card:hover{
+    transform: scale(1.2);
+    box-shadow: 7px 7px 14px grey
+}
+.third-section{
+    height: 700px;
+    padding: 100px;
+}
+.sec-heading{
+    text-align: center;
+    padding: 35px;
+    font-size: 50px;
+    font-weight: 700;
+}
+.third-img{
+    height: auto;
+    padding: 20px;
+}
+.last-sec{
+    height: 400px;
+    padding: 100px;
+}
+.wrapper{
+    height: 400px;
+    margin-top: 250px;
+}
+.testimonial img{
+    width: 130px;
+}
+.wrap{
+    width: 550px;
+    margin-left: 50px;
+}
+.d-flex{
+    margin-bottom: 20px;
+}
